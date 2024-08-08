@@ -2,6 +2,8 @@
 
 Typescript utility library for `CITATION.cff` files.
 
+[Citation File Format](https://github.com/citation-file-format/citation-file-format) is used to provide citation metadata for software and datasets in YAML.
+
 ## Current scope
 
 - Reading, writing, validating `CITATION.cff` files
