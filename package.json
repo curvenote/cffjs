@@ -1,6 +1,6 @@
 {
   "name": "citation-cff-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Types and utilities for working with CITATION.cff files in Typescript",
   "author": "Curvenote Inc. <support@curvenote.com>",
   "homepage": "https://github.com/curvenote/citation-cff-utils",
